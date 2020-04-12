@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c729883-377e-4e9b-bde6-4b4dd04388dc" name="Default Changelist" comment="" />
+    <list default="true" id="4c729883-377e-4e9b-bde6-4b4dd04388dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rockpaperscissors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RockPaperScissorsManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RockPaperScissorsManager.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,12 +31,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.2-bin/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="1VXjO276vArwI5PX7vz6jwsiEOB" />
   <component name="ProjectViewState">
@@ -29,33 +58,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="shapes" />
+      <module name="rockpaperscissors" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,30 +87,63 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1577411399663">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="304" y="59" key="#Inspections" timestamp="1582100182929">
+      <screen x="0" y="0" width="1422" height="800" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1577411399663" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1577411399663">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="304" y="59" key="#Inspections/0.0.1422.800@0.0.1422.800" timestamp="1582100182929" />
+    <state x="305" y="59" key="#Project_Structure" timestamp="1586655261827">
+      <screen x="0" y="0" width="1422" height="800" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1577411399663" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1577411399663">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="305" y="59" key="#Project_Structure/0.0.1422.800@0.0.1422.800" timestamp="1586655261827" />
+    <state x="168" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582095859672">
+      <screen x="0" y="0" width="1422" height="800" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1577411399663" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1577411399663">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="168" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1422.800@0.0.1422.800" timestamp="1582095859672" />
+    <state x="493" y="142" key="FileChooserDialogImpl" timestamp="1582099423449">
+      <screen x="0" y="0" width="1422" height="800" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1577411399663" />
-    <state x="341" y="148" key="SettingsEditor" timestamp="1577410804891">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="493" y="142" key="FileChooserDialogImpl/0.0.1422.800@0.0.1422.800" timestamp="1582099423449" />
+    <state width="1380" height="201" key="GridCell.Tab.0.bottom" timestamp="1586477689642">
+      <screen x="0" y="0" width="1422" height="800" />
     </state>
-    <state x="341" y="148" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1577410804891" />
-    <state x="541" y="330" key="com.intellij.ide.util.TipDialog" timestamp="1577410779887">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state width="1380" height="201" key="GridCell.Tab.0.bottom/0.0.1422.800@0.0.1422.800" timestamp="1586477689642" />
+    <state width="1380" height="201" key="GridCell.Tab.0.center" timestamp="1586477689642">
+      <screen x="0" y="0" width="1422" height="800" />
     </state>
-    <state x="541" y="330" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1577410779887" />
+    <state width="1380" height="201" key="GridCell.Tab.0.center/0.0.1422.800@0.0.1422.800" timestamp="1586477689642" />
+    <state width="1380" height="201" key="GridCell.Tab.0.left" timestamp="1586477689642">
+      <screen x="0" y="0" width="1422" height="800" />
+    </state>
+    <state width="1380" height="201" key="GridCell.Tab.0.left/0.0.1422.800@0.0.1422.800" timestamp="1586477689642" />
+    <state width="1380" height="201" key="GridCell.Tab.0.right" timestamp="1586477689642">
+      <screen x="0" y="0" width="1422" height="800" />
+    </state>
+    <state width="1380" height="201" key="GridCell.Tab.0.right/0.0.1422.800@0.0.1422.800" timestamp="1586477689642" />
+    <state x="289" y="0" key="SettingsEditor" timestamp="1582100326455">
+      <screen x="0" y="0" width="1422" height="800" />
+    </state>
+    <state x="289" y="0" key="SettingsEditor/0.0.1422.800@0.0.1422.800" timestamp="1582100326455" />
+    <state x="458" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1586470796445">
+      <screen x="0" y="0" width="1422" height="800" />
+    </state>
+    <state x="458" y="261" key="com.intellij.ide.util.TipDialog/0.0.1422.800@0.0.1422.800" timestamp="1586470796445" />
+    <state x="284" y="21" key="new project wizard" timestamp="1586470828323">
+      <screen x="0" y="0" width="1422" height="800" />
+    </state>
+    <state x="284" y="21" key="new project wizard/0.0.1422.800@0.0.1422.800" timestamp="1586470828323" />
   </component>
 </project>
